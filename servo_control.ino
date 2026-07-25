@@ -157,7 +157,7 @@ void happyFace(uint32_t frame) {
   display.setTextWrap(false);
 
   display.setCursor(1, 0);
-  display.print("subscribe Please");
+  display.print(" Input your text");
 
   star(10, 15);
   star(25, 8);
@@ -227,7 +227,7 @@ void sadFace(uint32_t frame) {
   display.print("im SAD, please");
 
   display.setCursor(0, 10);
-  display.print("Subscribe iTeachAGI");
+  display.print(" Input your text here");
 
   // Face moved down
   display.drawCircle(64, 41, 23, SSD1306_WHITE);
