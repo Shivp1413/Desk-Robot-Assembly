@@ -357,13 +357,7 @@ Wait using millis()
         |
         v
 Run next action
-```
 
-Advantages:
-
-* OLED animation remains smooth
-* Serial input stays responsive
-* Multiple actions can run automatically
 
 ---
 
