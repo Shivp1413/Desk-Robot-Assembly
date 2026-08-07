@@ -410,5 +410,7 @@ This project is provided for educational and hobby use.
 
 Feel free to modify and improve it for your own projects.
 
+# Next Steps: 
+https://github.com/Shivp1413/Esp32-S3-CAM
 ```
 ```
